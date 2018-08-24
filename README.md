@@ -1,0 +1,2 @@
+# EthCoin
+ETC代币
